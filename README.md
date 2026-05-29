@@ -17,7 +17,7 @@
     <tr>
       <td width="70%" valign="top" align="left">
         <h3>📖 Quick Intro</h3>
-        <p>I'm currently in my 6th semester of <b>Informatics Engineering</b> at <b>Cilacap State Polytechnic</b>. I have a deep interest in the web ecosystem and I'm constantly pushing myself to improve every day.</p>
+        <p>I'm currently in my 6th semester of <b>Informatics Engineering</b> at <b>Cilacap State Polytechnic</b>. I have a deep interest in the web ecosystem and I'm constantly pushing myself to improve.</p>
         <p>🚀 <b>Active Pursuit:</b> Honing my craft at <b>Coding Camp by DBS Foundation x Dicoding</b>. I treat this GitHub profile as a living document of my growth.</p>
         <p>⚡ <b>Current Focus:</b> Mastering <b>React and Express</b> for the Capstone Project.</p>
       </td>
