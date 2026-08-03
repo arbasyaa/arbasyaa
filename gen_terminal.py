@@ -17,12 +17,9 @@ class T:
         self.lines.append(f'<text x="{x}" y="{self.y:.0f}" font-family="monospace" font-size="{size}" font-weight="{w}" fill="{color}">{esc(txt)}</text>')
         self.y += LH
     
-    def texts(self, parts, x=PAD, size=FS):
-        for i, (txt, color, bold) in enumerate(parts):
-            w = 700 if bold else 400
-            self.lines.append(f'<text x="{x}" y="{self.y:.0f}" font-family="monospace" font-size="{size}" font-weight="{w}" fill="{color}">{esc(txt)}</text>')
-            x += len(txt) * (size * 0.6)
-        self.y += LH
+    def text_at(self, txt, x, y, color=TXT, bold=False, size=FS):
+        w = 700 if bold else 400
+        self.lines.append(f'<text x="{x}" y="{y:.0f}" font-family="monospace" font-size="{size}" font-weight="{w}" fill="{color}">{esc(txt)}</text>')
     
     def gap(self, n=0.5):
         self.y += LH * n
@@ -41,7 +38,7 @@ class T:
 
 t = T()
 
-t.texts([("arbasyaa", BLUE, True), ("@", PINK, False), ("github", BLUE, True), (" ~ ", TXT, False), ("via 🐹 v1.26", GRAY, False)])
+t.text("arbasyaa@github ~ via 🐹 v1.26", PAD, BLUE)
 t.cmd("fastfetch")
 t.gap(0.3)
 
@@ -60,19 +57,30 @@ ART = [
 "         ⠀⠀⠀⠀⠀⠀⠀⠙⠻⣿⣷⣶⣤⣤⣶⣾⣿⠟⠋",
 "         ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠛⠛⠛⠉",
 ]
-for line in ART:
-    t.text(line, PAD + 50, BLUE, size=8)
-t.gap(0.5)
 
-t.text("arbasyaa@github", PAD + 280, BLUE, True, 14)
-t.text("─" * 35, PAD + 280, GRAY)
-t.kv("Name", "Arbasya")
-t.kv("Role", "Backend Engineer")
-t.kv("Status", "Fresh Graduate D3 TI")
-t.kv("School", "Politeknik Negeri Cilacap")
-t.kv("Achievement", "DBS x Dicoding Coding Camp Graduate")
-t.kv("Focus", "Problem Solving & System Architecture")
-t.gap()
+art_start_y = t.y
+for i, line in enumerate(ART):
+    t.text_at(line, PAD + 50, art_start_y + i * 12, BLUE, size=8)
+art_end_y = art_start_y + len(ART) * 12
+
+info_x = PAD + 300
+info_y = t.y
+t.text_at("arbasyaa@github", info_x, info_y, BLUE, True, 14)
+info_y += LH
+t.text_at("─" * 30, info_x, info_y, GRAY)
+info_y += LH
+for k, v in [
+    ("Name", "Arbasya"),
+    ("Role", "Backend Engineer"),
+    ("Status", "Fresh Graduate D3 TI"),
+    ("School", "Politeknik Negeri Cilacap"),
+    ("Achievement", "DBS x Dicoding Coding Camp Graduate"),
+    ("Focus", "Problem Solving & System Architecture"),
+]:
+    t.text_at(f"{k}: {v}", info_x, info_y, TXT)
+    info_y += LH
+
+t.y = max(art_end_y, info_y) + 12
 
 t.cmd("cat skills.txt")
 t.gap(0.3)
@@ -138,7 +146,7 @@ t.text("📧 Email: arbasyaa@gmail.com", PAD + 16)
 t.text("🐙 GitHub: github.com/arbasyaa", PAD + 16)
 t.gap()
 
-t.texts([("arbasyaa", BLUE, True), ("@", PINK, False), ("github", BLUE, True), (" ~", TXT, False)])
+t.text("arbasyaa@github ~", PAD, BLUE)
 t.text("$ ▌", PAD, GREEN)
 
 H = int(t.y + 16)
