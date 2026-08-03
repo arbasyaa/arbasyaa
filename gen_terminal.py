@@ -150,6 +150,6 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewB
 {chr(10).join(t.lines)}
 </svg>'''
 
-with open("/var/folders/f4/_8_jhg4j0_9gy05rn8ss5r6r0000gn/T/opencode/arbasyaa/profile.svg", "w") as f:
+with open("/var/folders/f4/_8_jhg4j0_9gy05rn8ss5r6r0000gn/T/opencode/arbasyaa/terminal.svg", "w") as f:
     f.write(svg)
 print(f"OK height={H}")
