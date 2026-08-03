@@ -19,7 +19,7 @@ YELLOW = "#f9e2af"
 PURPLE = "#cba6f7"
 GRAY = "#6c7086"
 
-y = 34 + 22
+y = 34 + 24
 lines = []
 
 def esc(t):
@@ -27,11 +27,11 @@ def esc(t):
 
 def segline(segs, x=PAD, fs=FS):
     global y
-    tspan = "".join(
-        f'<tspan x="{x}" dy="{LH if i else 0}" fill="{c}" font-weight="{700 if b else 400}">{esc(t)}</tspan>'
-        for i, (t, c, b) in enumerate(segs)
-    )
-    lines.append(f'<text font-family="monospace" font-size="{fs}">{tspan}</text>')
+    tspan = ""
+    for i, (t, c, b) in enumerate(segs):
+        xattr = f' x="{x}"' if i == 0 else ""
+        tspan += f'<tspan{xattr} fill="{c}" font-weight="{700 if b else 400}">{esc(t)}</tspan>'
+    lines.append(f'<text y="{y:.1f}" font-family="monospace" font-size="{fs}">{tspan}</text>')
     y += LH
 
 def plain(t, c=TXT, x=PAD, fs=FS, bold=False):
@@ -39,10 +39,9 @@ def plain(t, c=TXT, x=PAD, fs=FS, bold=False):
 
 def art(lines_in, x=PAD, fs=ART_FS, color=BLUE):
     global y
-    for i, l in enumerate(lines_in):
-        dy = ART_LH if i else 0
-        lines.append(f'<text font-family="monospace" font-size="{fs}" fill="{color}" xml:space="preserve"><tspan x="{x}" dy="{dy}">{esc(l)}</tspan></text>')
-    y += ART_LH * len(lines)
+    for l in lines_in:
+        lines.append(f'<text x="{x}" y="{y:.1f}" font-family="monospace" font-size="{fs}" fill="{color}" xml:space="preserve">{esc(l)}</text>')
+        y += ART_LH
 
 def gap(n=1):
     global y
@@ -85,7 +84,7 @@ cmd("fastfetch")
 art_y = y
 gap(-0.2)
 art(OCTOCAT)
-info_y = art_y + 14
+info_y = art_y + 16
 g = y
 y = info_y
 segline([("arbasyaa@github", BLUE, True)], x=300, fs=15)
@@ -183,7 +182,7 @@ gap(0.6)
 prompt()
 segline([("$", GREEN, True), (" ", TXT, False), ("\u258c", TXT, False)])
 
-H = y + 14
+H = int(y + 14)
 body = f'<rect x="0" y="0" width="{W}" height="{H}" fill="{BG}"/>'
 titlebar = f'<rect x="0" y="0" width="{W}" height="34" fill="{TITLEBAR}"/>'
 dots = "".join(
@@ -201,7 +200,6 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewB
 </svg>
 '''
 
-out = "/Users/arbasya/Code/terminal.svg"
-with open(out, "w") as f:
+with open("/var/folders/f4/_8_jhg4j0_9gy05rn8ss5r6r0000gn/T/opencode/arbasyaa/terminal.svg", "w") as f:
     f.write(svg)
 print(f"OK height={H}")

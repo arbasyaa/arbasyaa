@@ -1,85 +1,85 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="1584.0500000000002" viewBox="0 0 980 1584.0500000000002" font-family="monospace">
-<rect x="0" y="0" width="980" height="1584.0500000000002" fill="#1e1e2e"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="1588" viewBox="0 0 980 1588" font-family="monospace">
+<rect x="0" y="0" width="980" height="1588" fill="#1e1e2e"/>
 <rect x="0" y="0" width="980" height="34" fill="#181825"/>
 <circle cx="20" cy="17" r="6" fill="#f38ba8"/><circle cx="38" cy="17" r="6" fill="#f9e2af"/><circle cx="56" cy="17" r="6" fill="#a6e3a1"/>
 <text x="490.0" y="22" font-family="monospace" font-size="12.5" fill="#6c7086" text-anchor="middle">arbasyaa@github: ~ — zsh</text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#89b4fa" font-weight="700">arbasyaa</tspan><tspan x="24" dy="21" fill="#f38ba8" font-weight="400">@</tspan><tspan x="24" dy="21" fill="#89b4fa" font-weight="700">github</tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400"> </tspan><tspan x="24" dy="21" fill="#94e2d5" font-weight="400">~</tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400">  </tspan><tspan x="24" dy="21" fill="#6c7086" font-weight="400">via 🐹 v1.26</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#a6e3a1" font-weight="700">$</tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400"> </tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400">fastfetch</tspan></text>
-<text font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve"><tspan x="24" dy="0">⠀⠀⠀⠀⠀⠀⠀⠑⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠑⠑⠀</tspan></text>
-<text font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve"><tspan x="24" dy="12">⠀⠀⠑⠕⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠕⠑⠀</tspan></text>
-<text font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve"><tspan x="24" dy="12">⠀⠐⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠖⠀</tspan></text>
-<text font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve"><tspan x="24" dy="12">⠁⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠓⠀</tspan></text>
-<text font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve"><tspan x="24" dy="12">⠁⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠓⠀</tspan></text>
-<text font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve"><tspan x="24" dy="12">⠁⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠇⠑⠁⠕⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠓⠀</tspan></text>
-<text font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve"><tspan x="24" dy="12">⠓⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠇⠁⠀⠀⠀⠀⠀⠀⠑⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠃⠀</tspan></text>
-<text font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve"><tspan x="24" dy="12">⠀⠕⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠇⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠓⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠕⠀</tspan></text>
-<text font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve"><tspan x="24" dy="12">⠀⠀⠑⠗⠗⠗⠗⠗⠗⠗⠗⠗⠁⠀⠀⠁⠗⠗⠕⠗⠀⠀⠀⠁⠗⠗⠗⠗⠗⠗⠗⠗⠗⠇⠀</tspan></text>
-<text font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve"><tspan x="24" dy="12">⠀⠀⠀⠀⠙⠗⠗⠗⠗⠗⠗⠂⠀⠀⠓⠑⠀⠀⠀⠀⠀⠓⠑⠀⠀⠁⠗⠗⠗⠗⠗⠗⠗⠖⠀</tspan></text>
-<text font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve"><tspan x="24" dy="12">⠀⠀⠀⠀⠀⠀⠙⠗⠗⠗⠗⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠕⠗⠗⠗⠗⠖⠀</tspan></text>
-<text font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve"><tspan x="24" dy="12">⠀⠀⠀⠀⠀⠀⠀⠀⠙⠑⠗⠗⠗⠑⠑⠕⠕⠑⠕⠑⠗⠗⠗⠗⠑⠙⠀</tspan></text>
-<text font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve"><tspan x="24" dy="12">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠓⠑⠑⠑⠑⠑⠑⠑⠑⠑⠑⠑⠑⠃⠀</tspan></text>
-<text font-family="monospace" font-size="15"><tspan x="300" dy="0" fill="#89b4fa" font-weight="700">arbasyaa@github</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="300" dy="0" fill="#6c7086" font-weight="400">────────────────────────────────────────</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#f9e2af" font-weight="400">Name        </tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400"> </tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400">Arbasya</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#f9e2af" font-weight="400">Role        </tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400"> </tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400">Backend Engineer</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#f9e2af" font-weight="400">Status      </tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400"> </tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400">Fresh Graduate D3 TI</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#f9e2af" font-weight="400">School      </tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400"> </tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400">Politeknik Negeri Cilacap</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#f9e2af" font-weight="400">Achievement </tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400"> </tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400">DBS x Dicoding Coding Camp Graduate</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#f9e2af" font-weight="400">Focus       </tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400"> </tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400">Problem Solving &amp; System Architecture</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#a6e3a1" font-weight="700">$</tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400"> </tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400">cat skills.txt</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#cba6f7" font-weight="700">[Languages]</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#cdd6f4" font-weight="400">JavaScript 📦  •  Go 🐹  •  PHP 🐘  •  Python 🐍</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#cba6f7" font-weight="700">[Frameworks &amp; Libraries]</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#cdd6f4" font-weight="400">Next.js ▲  •  React ⚛️  •  Node.js 🟢  •  Hono 🔥  •  Express 🚂</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#cdd6f4" font-weight="400">Gin 🍸  •  Django 🎯  •  Laravel 🎼  •  TALL Stack 🏔️</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#cba6f7" font-weight="700">[Expertise]</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#a6e3a1" font-weight="700">✓ </tspan><tspan x="40" dy="21" fill="#cdd6f4" font-weight="400">Backend Development</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#a6e3a1" font-weight="700">✓ </tspan><tspan x="40" dy="21" fill="#cdd6f4" font-weight="400">Problem Solving &amp; Logic</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#a6e3a1" font-weight="700">✓ </tspan><tspan x="40" dy="21" fill="#cdd6f4" font-weight="400">System Architecture Design</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#a6e3a1" font-weight="700">✓ </tspan><tspan x="40" dy="21" fill="#cdd6f4" font-weight="400">Product Requirements Document (PRD)</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#a6e3a1" font-weight="700">✓ </tspan><tspan x="40" dy="21" fill="#cdd6f4" font-weight="400">Minimum Viable Product (MVP)</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#a6e3a1" font-weight="700">✓ </tspan><tspan x="40" dy="21" fill="#cdd6f4" font-weight="400">API Contract Design</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#a6e3a1" font-weight="700">$</tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400"> </tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400">ls projects/ -la</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#89b4fa" font-weight="400">drwxr-xr-x</tspan><tspan x="40" dy="21" fill="#cdd6f4" font-weight="400">  2 arbasyaa  staff   64B Aug  3 19:17  </tspan><tspan x="40" dy="21" fill="#94e2d5" font-weight="700">emiten-app</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#89b4fa" font-weight="400">drwxr-xr-x</tspan><tspan x="40" dy="21" fill="#cdd6f4" font-weight="400">  2 arbasyaa  staff   64B Aug  3 19:17  </tspan><tspan x="40" dy="21" fill="#94e2d5" font-weight="700">tixgo-backend</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#6c7086" font-weight="400">2 directories</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#a6e3a1" font-weight="700">$</tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400"> </tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400">cat projects/emiten-app/README.md</tspan></text>
-<text font-family="monospace" font-size="14.5"><tspan x="24" dy="0" fill="#f9e2af" font-weight="700">📈 Emiten — Advanced Financial Decision-Making Platform</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#cdd6f4" font-weight="400">Real-time stock &amp; crypto analysis for Indonesian market (IDX) with technical indicators,</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#cdd6f4" font-weight="400">fundamentals, screener, and portfolio tracking.</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#cba6f7" font-weight="700">[Tech Stack]</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#cdd6f4" font-weight="400">Next.js • TypeScript • Hono • TradingView Charts • Zustand</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#cba6f7" font-weight="700">[Features]</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#cdd6f4" font-weight="400">• 6+ Technical indicators (RSI, MACD, Bollinger Bands, EMA, SMA)</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#cdd6f4" font-weight="400">• Fundamental analysis with 0-100 valuation scoring</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#cdd6f4" font-weight="400">• LQ45 stock screener with pre-built strategies</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#cdd6f4" font-weight="400">• Portfolio tracker with real-time P&amp;L calculation</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#cdd6f4" font-weight="400">• Price alerts with browser notifications</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#cdd6f4" font-weight="400">• Bilingual interface (EN/ID)</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#cba6f7" font-weight="700">[Architecture]</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#cdd6f4" font-weight="400">Next.js frontend + Hono backend + Redis cache</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#94e2d5" font-weight="400">🔗 </tspan><tspan x="24" dy="21" fill="#94e2d5" font-weight="400">https://github.com/arbasyaa/emiten-app</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#a6e3a1" font-weight="700">$</tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400"> </tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400">cat projects/tixgo-backend/README.md</tspan></text>
-<text font-family="monospace" font-size="14.5"><tspan x="24" dy="0" fill="#f9e2af" font-weight="700">🎫 TixGo Backend — High-Concurrency Ticketing System</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#cdd6f4" font-weight="400">Production-ready backend for flash-sale scenarios with atomic stock management and</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#cdd6f4" font-weight="400">async order processing.</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#cba6f7" font-weight="700">[Tech Stack]</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#cdd6f4" font-weight="400">Go • Gin • PostgreSQL • Redis • RabbitMQ • Docker</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#cba6f7" font-weight="700">[Features]</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#cdd6f4" font-weight="400">• Redis atomic DECRBY (zero overselling guarantee)</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#cdd6f4" font-weight="400">• RabbitMQ async order processing</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#cdd6f4" font-weight="400">• Idempotent payment webhooks with HMAC-SHA256</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#cdd6f4" font-weight="400">• Automatic stock recovery on order expiry</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#cdd6f4" font-weight="400">• Admin dashboard with real-time metrics</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#cdd6f4" font-weight="400">• Circuit breaker for external calls</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#cba6f7" font-weight="700">[QA Results]</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#a6e3a1" font-weight="700">32/32 </tspan><tspan x="40" dy="21" fill="#cdd6f4" font-weight="400">tests passed (100%)</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#cba6f7" font-weight="700">[Load Test]</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#cdd6f4" font-weight="400">1000 concurrent orders in ~8.1s</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#94e2d5" font-weight="400">🔗 </tspan><tspan x="24" dy="21" fill="#94e2d5" font-weight="400">https://github.com/arbasyaa/tixgo-backend</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#a6e3a1" font-weight="700">$</tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400"> </tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400">cat contact.txt</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#f9e2af" font-weight="400">📧 Email </tspan><tspan x="40" dy="21" fill="#cdd6f4" font-weight="400">: arbasyaa@gmail.com</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="40" dy="0" fill="#f9e2af" font-weight="400">🐙 GitHub</tspan><tspan x="40" dy="21" fill="#cdd6f4" font-weight="400">: github.com/arbasyaa</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#89b4fa" font-weight="700">arbasyaa</tspan><tspan x="24" dy="21" fill="#f38ba8" font-weight="400">@</tspan><tspan x="24" dy="21" fill="#89b4fa" font-weight="700">github</tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400"> </tspan><tspan x="24" dy="21" fill="#94e2d5" font-weight="400">~</tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400">  </tspan><tspan x="24" dy="21" fill="#6c7086" font-weight="400">via 🐹 v1.26</tspan></text>
-<text font-family="monospace" font-size="13.5"><tspan x="24" dy="0" fill="#a6e3a1" font-weight="700">$</tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400"> </tspan><tspan x="24" dy="21" fill="#cdd6f4" font-weight="400">▌</tspan></text>
+<text y="58.0" font-family="monospace" font-size="13.5"><tspan x="24" fill="#89b4fa" font-weight="700">arbasyaa</tspan><tspan fill="#f38ba8" font-weight="400">@</tspan><tspan fill="#89b4fa" font-weight="700">github</tspan><tspan fill="#cdd6f4" font-weight="400"> </tspan><tspan fill="#94e2d5" font-weight="400">~</tspan><tspan fill="#cdd6f4" font-weight="400">  </tspan><tspan fill="#6c7086" font-weight="400">via 🐹 v1.26</tspan></text>
+<text y="79.0" font-family="monospace" font-size="13.5"><tspan x="24" fill="#a6e3a1" font-weight="700">$</tspan><tspan fill="#cdd6f4" font-weight="400"> </tspan><tspan fill="#cdd6f4" font-weight="400">fastfetch</tspan></text>
+<text x="24" y="97.9" font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠑⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠓⠑⠑⠀</text>
+<text x="24" y="109.9" font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve">⠀⠀⠑⠕⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠕⠑⠀</text>
+<text x="24" y="121.9" font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve">⠀⠐⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠖⠀</text>
+<text x="24" y="133.9" font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve">⠁⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠓⠀</text>
+<text x="24" y="145.9" font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve">⠁⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠓⠀</text>
+<text x="24" y="157.9" font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve">⠁⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠇⠑⠁⠕⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠓⠀</text>
+<text x="24" y="169.9" font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve">⠓⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠇⠁⠀⠀⠀⠀⠀⠀⠑⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠃⠀</text>
+<text x="24" y="181.9" font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve">⠀⠕⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠇⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠓⠗⠗⠗⠗⠗⠗⠗⠗⠗⠗⠕⠀</text>
+<text x="24" y="193.9" font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve">⠀⠀⠑⠗⠗⠗⠗⠗⠗⠗⠗⠗⠁⠀⠀⠁⠗⠗⠕⠗⠀⠀⠀⠁⠗⠗⠗⠗⠗⠗⠗⠗⠗⠇⠀</text>
+<text x="24" y="205.9" font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve">⠀⠀⠀⠀⠙⠗⠗⠗⠗⠗⠗⠂⠀⠀⠓⠑⠀⠀⠀⠀⠀⠓⠑⠀⠀⠁⠗⠗⠗⠗⠗⠗⠗⠖⠀</text>
+<text x="24" y="217.9" font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠙⠗⠗⠗⠗⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠕⠗⠗⠗⠗⠖⠀</text>
+<text x="24" y="229.9" font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠀⠙⠑⠗⠗⠗⠑⠑⠕⠕⠑⠕⠑⠗⠗⠗⠗⠑⠙⠀</text>
+<text x="24" y="241.9" font-family="monospace" font-size="9" fill="#89b4fa" xml:space="preserve">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠓⠑⠑⠑⠑⠑⠑⠑⠑⠑⠑⠑⠑⠃⠀</text>
+<text y="116.0" font-family="monospace" font-size="15"><tspan x="300" fill="#89b4fa" font-weight="700">arbasyaa@github</tspan></text>
+<text y="137.0" font-family="monospace" font-size="13.5"><tspan x="300" fill="#6c7086" font-weight="400">────────────────────────────────────────</tspan></text>
+<text y="158.0" font-family="monospace" font-size="13.5"><tspan x="24" fill="#f9e2af" font-weight="400">Name        </tspan><tspan fill="#cdd6f4" font-weight="400"> </tspan><tspan fill="#cdd6f4" font-weight="400">Arbasya</tspan></text>
+<text y="179.0" font-family="monospace" font-size="13.5"><tspan x="24" fill="#f9e2af" font-weight="400">Role        </tspan><tspan fill="#cdd6f4" font-weight="400"> </tspan><tspan fill="#cdd6f4" font-weight="400">Backend Engineer</tspan></text>
+<text y="200.0" font-family="monospace" font-size="13.5"><tspan x="24" fill="#f9e2af" font-weight="400">Status      </tspan><tspan fill="#cdd6f4" font-weight="400"> </tspan><tspan fill="#cdd6f4" font-weight="400">Fresh Graduate D3 TI</tspan></text>
+<text y="221.0" font-family="monospace" font-size="13.5"><tspan x="24" fill="#f9e2af" font-weight="400">School      </tspan><tspan fill="#cdd6f4" font-weight="400"> </tspan><tspan fill="#cdd6f4" font-weight="400">Politeknik Negeri Cilacap</tspan></text>
+<text y="242.0" font-family="monospace" font-size="13.5"><tspan x="24" fill="#f9e2af" font-weight="400">Achievement </tspan><tspan fill="#cdd6f4" font-weight="400"> </tspan><tspan fill="#cdd6f4" font-weight="400">DBS x Dicoding Coding Camp Graduate</tspan></text>
+<text y="263.0" font-family="monospace" font-size="13.5"><tspan x="24" fill="#f9e2af" font-weight="400">Focus       </tspan><tspan fill="#cdd6f4" font-weight="400"> </tspan><tspan fill="#cdd6f4" font-weight="400">Problem Solving &amp; System Architecture</tspan></text>
+<text y="292.0" font-family="monospace" font-size="13.5"><tspan x="24" fill="#a6e3a1" font-weight="700">$</tspan><tspan fill="#cdd6f4" font-weight="400"> </tspan><tspan fill="#cdd6f4" font-weight="400">cat skills.txt</tspan></text>
+<text y="323.5" font-family="monospace" font-size="13.5"><tspan x="24" fill="#cba6f7" font-weight="700">[Languages]</tspan></text>
+<text y="344.5" font-family="monospace" font-size="13.5"><tspan x="24" fill="#cdd6f4" font-weight="400">JavaScript 📦  •  Go 🐹  •  PHP 🐘  •  Python 🐍</tspan></text>
+<text y="370.8" font-family="monospace" font-size="13.5"><tspan x="24" fill="#cba6f7" font-weight="700">[Frameworks &amp; Libraries]</tspan></text>
+<text y="391.8" font-family="monospace" font-size="13.5"><tspan x="24" fill="#cdd6f4" font-weight="400">Next.js ▲  •  React ⚛️  •  Node.js 🟢  •  Hono 🔥  •  Express 🚂</tspan></text>
+<text y="412.8" font-family="monospace" font-size="13.5"><tspan x="24" fill="#cdd6f4" font-weight="400">Gin 🍸  •  Django 🎯  •  Laravel 🎼  •  TALL Stack 🏔️</tspan></text>
+<text y="439.0" font-family="monospace" font-size="13.5"><tspan x="24" fill="#cba6f7" font-weight="700">[Expertise]</tspan></text>
+<text y="460.0" font-family="monospace" font-size="13.5"><tspan x="40" fill="#a6e3a1" font-weight="700">✓ </tspan><tspan fill="#cdd6f4" font-weight="400">Backend Development</tspan></text>
+<text y="481.0" font-family="monospace" font-size="13.5"><tspan x="40" fill="#a6e3a1" font-weight="700">✓ </tspan><tspan fill="#cdd6f4" font-weight="400">Problem Solving &amp; Logic</tspan></text>
+<text y="502.0" font-family="monospace" font-size="13.5"><tspan x="40" fill="#a6e3a1" font-weight="700">✓ </tspan><tspan fill="#cdd6f4" font-weight="400">System Architecture Design</tspan></text>
+<text y="523.0" font-family="monospace" font-size="13.5"><tspan x="40" fill="#a6e3a1" font-weight="700">✓ </tspan><tspan fill="#cdd6f4" font-weight="400">Product Requirements Document (PRD)</tspan></text>
+<text y="544.0" font-family="monospace" font-size="13.5"><tspan x="40" fill="#a6e3a1" font-weight="700">✓ </tspan><tspan fill="#cdd6f4" font-weight="400">Minimum Viable Product (MVP)</tspan></text>
+<text y="565.0" font-family="monospace" font-size="13.5"><tspan x="40" fill="#a6e3a1" font-weight="700">✓ </tspan><tspan fill="#cdd6f4" font-weight="400">API Contract Design</tspan></text>
+<text y="596.5" font-family="monospace" font-size="13.5"><tspan x="24" fill="#a6e3a1" font-weight="700">$</tspan><tspan fill="#cdd6f4" font-weight="400"> </tspan><tspan fill="#cdd6f4" font-weight="400">ls projects/ -la</tspan></text>
+<text y="620.6" font-family="monospace" font-size="13.5"><tspan x="40" fill="#89b4fa" font-weight="400">drwxr-xr-x</tspan><tspan fill="#cdd6f4" font-weight="400">  2 arbasyaa  staff   64B Aug  3 19:17  </tspan><tspan fill="#94e2d5" font-weight="700">emiten-app</tspan></text>
+<text y="641.6" font-family="monospace" font-size="13.5"><tspan x="40" fill="#89b4fa" font-weight="400">drwxr-xr-x</tspan><tspan fill="#cdd6f4" font-weight="400">  2 arbasyaa  staff   64B Aug  3 19:17  </tspan><tspan fill="#94e2d5" font-weight="700">tixgo-backend</tspan></text>
+<text y="662.6" font-family="monospace" font-size="13.5"><tspan x="40" fill="#6c7086" font-weight="400">2 directories</tspan></text>
+<text y="686.8" font-family="monospace" font-size="13.5"><tspan x="24" fill="#a6e3a1" font-weight="700">$</tspan><tspan fill="#cdd6f4" font-weight="400"> </tspan><tspan fill="#cdd6f4" font-weight="400">cat projects/emiten-app/README.md</tspan></text>
+<text y="718.3" font-family="monospace" font-size="14.5"><tspan x="24" fill="#f9e2af" font-weight="700">📈 Emiten — Advanced Financial Decision-Making Platform</tspan></text>
+<text y="739.3" font-family="monospace" font-size="13.5"><tspan x="24" fill="#cdd6f4" font-weight="400">Real-time stock &amp; crypto analysis for Indonesian market (IDX) with technical indicators,</tspan></text>
+<text y="760.3" font-family="monospace" font-size="13.5"><tspan x="24" fill="#cdd6f4" font-weight="400">fundamentals, screener, and portfolio tracking.</tspan></text>
+<text y="784.4" font-family="monospace" font-size="13.5"><tspan x="24" fill="#cba6f7" font-weight="700">[Tech Stack]</tspan></text>
+<text y="805.4" font-family="monospace" font-size="13.5"><tspan x="24" fill="#cdd6f4" font-weight="400">Next.js • TypeScript • Hono • TradingView Charts • Zustand</tspan></text>
+<text y="829.6" font-family="monospace" font-size="13.5"><tspan x="24" fill="#cba6f7" font-weight="700">[Features]</tspan></text>
+<text y="850.6" font-family="monospace" font-size="13.5"><tspan x="40" fill="#cdd6f4" font-weight="400">• 6+ Technical indicators (RSI, MACD, Bollinger Bands, EMA, SMA)</tspan></text>
+<text y="871.6" font-family="monospace" font-size="13.5"><tspan x="40" fill="#cdd6f4" font-weight="400">• Fundamental analysis with 0-100 valuation scoring</tspan></text>
+<text y="892.6" font-family="monospace" font-size="13.5"><tspan x="40" fill="#cdd6f4" font-weight="400">• LQ45 stock screener with pre-built strategies</tspan></text>
+<text y="913.6" font-family="monospace" font-size="13.5"><tspan x="40" fill="#cdd6f4" font-weight="400">• Portfolio tracker with real-time P&amp;L calculation</tspan></text>
+<text y="934.6" font-family="monospace" font-size="13.5"><tspan x="40" fill="#cdd6f4" font-weight="400">• Price alerts with browser notifications</tspan></text>
+<text y="955.6" font-family="monospace" font-size="13.5"><tspan x="40" fill="#cdd6f4" font-weight="400">• Bilingual interface (EN/ID)</tspan></text>
+<text y="979.7" font-family="monospace" font-size="13.5"><tspan x="24" fill="#cba6f7" font-weight="700">[Architecture]</tspan></text>
+<text y="1000.7" font-family="monospace" font-size="13.5"><tspan x="24" fill="#cdd6f4" font-weight="400">Next.js frontend + Hono backend + Redis cache</tspan></text>
+<text y="1024.9" font-family="monospace" font-size="13.5"><tspan x="24" fill="#94e2d5" font-weight="400">🔗 </tspan><tspan fill="#94e2d5" font-weight="400">https://github.com/arbasyaa/emiten-app</tspan></text>
+<text y="1052.2" font-family="monospace" font-size="13.5"><tspan x="24" fill="#a6e3a1" font-weight="700">$</tspan><tspan fill="#cdd6f4" font-weight="400"> </tspan><tspan fill="#cdd6f4" font-weight="400">cat projects/tixgo-backend/README.md</tspan></text>
+<text y="1083.7" font-family="monospace" font-size="14.5"><tspan x="24" fill="#f9e2af" font-weight="700">🎫 TixGo Backend — High-Concurrency Ticketing System</tspan></text>
+<text y="1104.7" font-family="monospace" font-size="13.5"><tspan x="24" fill="#cdd6f4" font-weight="400">Production-ready backend for flash-sale scenarios with atomic stock management and</tspan></text>
+<text y="1125.7" font-family="monospace" font-size="13.5"><tspan x="24" fill="#cdd6f4" font-weight="400">async order processing.</tspan></text>
+<text y="1149.8" font-family="monospace" font-size="13.5"><tspan x="24" fill="#cba6f7" font-weight="700">[Tech Stack]</tspan></text>
+<text y="1170.8" font-family="monospace" font-size="13.5"><tspan x="24" fill="#cdd6f4" font-weight="400">Go • Gin • PostgreSQL • Redis • RabbitMQ • Docker</tspan></text>
+<text y="1195.0" font-family="monospace" font-size="13.5"><tspan x="24" fill="#cba6f7" font-weight="700">[Features]</tspan></text>
+<text y="1216.0" font-family="monospace" font-size="13.5"><tspan x="40" fill="#cdd6f4" font-weight="400">• Redis atomic DECRBY (zero overselling guarantee)</tspan></text>
+<text y="1237.0" font-family="monospace" font-size="13.5"><tspan x="40" fill="#cdd6f4" font-weight="400">• RabbitMQ async order processing</tspan></text>
+<text y="1258.0" font-family="monospace" font-size="13.5"><tspan x="40" fill="#cdd6f4" font-weight="400">• Idempotent payment webhooks with HMAC-SHA256</tspan></text>
+<text y="1279.0" font-family="monospace" font-size="13.5"><tspan x="40" fill="#cdd6f4" font-weight="400">• Automatic stock recovery on order expiry</tspan></text>
+<text y="1300.0" font-family="monospace" font-size="13.5"><tspan x="40" fill="#cdd6f4" font-weight="400">• Admin dashboard with real-time metrics</tspan></text>
+<text y="1321.0" font-family="monospace" font-size="13.5"><tspan x="40" fill="#cdd6f4" font-weight="400">• Circuit breaker for external calls</tspan></text>
+<text y="1345.2" font-family="monospace" font-size="13.5"><tspan x="24" fill="#cba6f7" font-weight="700">[QA Results]</tspan></text>
+<text y="1366.2" font-family="monospace" font-size="13.5"><tspan x="40" fill="#a6e3a1" font-weight="700">32/32 </tspan><tspan fill="#cdd6f4" font-weight="400">tests passed (100%)</tspan></text>
+<text y="1387.2" font-family="monospace" font-size="13.5"><tspan x="24" fill="#cba6f7" font-weight="700">[Load Test]</tspan></text>
+<text y="1408.2" font-family="monospace" font-size="13.5"><tspan x="40" fill="#cdd6f4" font-weight="400">1000 concurrent orders in ~8.1s</tspan></text>
+<text y="1432.3" font-family="monospace" font-size="13.5"><tspan x="24" fill="#94e2d5" font-weight="400">🔗 </tspan><tspan fill="#94e2d5" font-weight="400">https://github.com/arbasyaa/tixgo-backend</tspan></text>
+<text y="1459.6" font-family="monospace" font-size="13.5"><tspan x="24" fill="#a6e3a1" font-weight="700">$</tspan><tspan fill="#cdd6f4" font-weight="400"> </tspan><tspan fill="#cdd6f4" font-weight="400">cat contact.txt</tspan></text>
+<text y="1483.8" font-family="monospace" font-size="13.5"><tspan x="40" fill="#f9e2af" font-weight="400">📧 Email </tspan><tspan fill="#cdd6f4" font-weight="400">: arbasyaa@gmail.com</tspan></text>
+<text y="1504.8" font-family="monospace" font-size="13.5"><tspan x="40" fill="#f9e2af" font-weight="400">🐙 GitHub</tspan><tspan fill="#cdd6f4" font-weight="400">: github.com/arbasyaa</tspan></text>
+<text y="1532.1" font-family="monospace" font-size="13.5"><tspan x="24" fill="#89b4fa" font-weight="700">arbasyaa</tspan><tspan fill="#f38ba8" font-weight="400">@</tspan><tspan fill="#89b4fa" font-weight="700">github</tspan><tspan fill="#cdd6f4" font-weight="400"> </tspan><tspan fill="#94e2d5" font-weight="400">~</tspan><tspan fill="#cdd6f4" font-weight="400">  </tspan><tspan fill="#6c7086" font-weight="400">via 🐹 v1.26</tspan></text>
+<text y="1553.1" font-family="monospace" font-size="13.5"><tspan x="24" fill="#a6e3a1" font-weight="700">$</tspan><tspan fill="#cdd6f4" font-weight="400"> </tspan><tspan fill="#cdd6f4" font-weight="400">▌</tspan></text>
 </svg>
