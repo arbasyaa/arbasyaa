@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arbasyaa/arbasyaa/main/terminal.svg" width="100%" alt="arbasyaa@github — terminal session (fastfetch, skills, projects, contact)" />
+  <img src="https://raw.githubusercontent.com/arbasyaa/arbasyaa/main/profile.svg" width="100%" alt="arbasyaa@github — terminal session (fastfetch, skills, projects, contact)" />
 </div>
 
 <br>
