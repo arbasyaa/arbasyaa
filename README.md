@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:89b4fa&height=200&section=header&text=Arbasya%20Anandito&fontSize=48&fontColor=cdd6f4&fontAlignY=36&desc=Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="Arbasya Anandito" width="100%" />
 
 <a href="https://github.com/arbasyaa">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=89B4FA&center=true&vCenter=true&width=620&lines=Backend+systems+that+stay+boring+in+production;Full-stack+products+from+PRD+to+deployment;Clean+APIs%2C+solid+data%2C+reliable+deploys;Automation%2C+data+pipelines+%26+load+testing" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=89B4FA&center=true&vCenter=true&width=620&lines=Backend+systems+that+stay+boring+in+production;Full-stack+products+from+PRD+to+deployment;Clean+APIs%2C+solid+data%2C+reliable+deploys;Automation+%26+data+pipelines" alt="Typing intro" />
 </a>
 
 <br>
@@ -19,16 +19,16 @@
 ## 👨‍💻 About Me
 
 I'm a **Full-Stack Developer** with a strong backend focus, and a graduate of **Informatics Engineering** at **Politeknik Negeri Cilacap**.
-I build products end-to-end — from the PRD and API contract, through the database and backend, to a polished
+I build products end-to-end: from the PRD and API contract, through the database and backend, to a polished
 frontend, Docker image and production deploy. I also integrate LLM APIs into web apps where they add real value,
 and use AI-assisted tooling to ship faster without cutting corners.
 
 ```yaml
 role:        Full-Stack Developer (Backend-focused)
 focus:       [Backend Systems, Full-Stack Web, Automation, DevOps]
-education:   Informatics Engineering — Politeknik Negeri Cilacap
+education:   Informatics Engineering, Politeknik Negeri Cilacap
 gpa:         3.50 / 4.00
-training:    Coding Camp powered by DBS Foundation — Full-Stack Web Developer
+training:    Coding Camp powered by DBS Foundation, Full-Stack Web Developer
 languages:   [Indonesian, English]
 status:      Open to full-time roles & freelance projects
 ```
@@ -42,7 +42,7 @@ status:      Open to full-time roles & freelance projects
 <td width="80" align="center">🎓</td>
 <td>
 <b>Politeknik Negeri Cilacap</b><br>
-Informatics Engineering (Teknik Informatika) — <b>Graduated</b><br>
+Informatics Engineering (Teknik Informatika) · <b>Graduated</b><br>
 <sub>GPA <b>3.50 / 4.00</b></sub>
 </td>
 </tr>
@@ -50,7 +50,7 @@ Informatics Engineering (Teknik Informatika) — <b>Graduated</b><br>
 <td width="80" align="center">💻</td>
 <td>
 <b>Coding Camp powered by DBS Foundation</b><br>
-Learning Path: Full-Stack Web Developer — <b>Graduated</b>
+Learning Path: Full-Stack Web Developer · <b>Graduated</b>
 </td>
 </tr>
 </table>
@@ -65,7 +65,7 @@ Learning Path: Full-Stack Web Developer — <b>Graduated</b>
 
 ### 🧱 Backend Engineering
 - RESTful API design, **API-contract-first** workflow
-- High-concurrency systems — atomic stock in Redis, zero overselling
+- High-concurrency systems: atomic stock in Redis, zero overselling
 - Message queues & async workers (RabbitMQ)
 - Idempotent webhooks, retries, expiry & self-healing flows
 - Auth & RBAC (JWT, session cookies, multi-role)
@@ -77,7 +77,7 @@ Learning Path: Full-Stack Web Developer — <b>Graduated</b>
 ### 🎨 Full-Stack & Frontend
 - Next.js / React apps with TypeScript & Tailwind CSS
 - Component systems with shadcn/ui
-- Motion & interaction — GSAP, Lenis smooth scroll
+- Motion & interaction: GSAP, Lenis smooth scroll
 - Dashboards, charts & real-time data (TradingView Charts)
 - Landing pages & content sites (Astro, Laravel Blade)
 - Monorepos with pnpm & Turborepo
@@ -98,7 +98,7 @@ Learning Path: Full-Stack Web Developer — <b>Graduated</b>
 
 ### 🧪 Automation & Quality
 - Browser automation (Playwright, Puppeteer)
-- Load & smoke testing with up to 100 virtual users
+- End-to-end & smoke testing
 - Web scraping & data pipelines (Python)
 - Security reviews & secure coding practices
 
@@ -162,8 +162,8 @@ Learning Path: Full-Stack Web Developer — <b>Graduated</b>
 |---|---|
 | **API contract first** | Agree on the request/response shape before writing handlers, so frontend and backend move in parallel. |
 | **PRD → MVP** | Scope the smallest thing that proves the idea, then earn the next feature. |
-| **Failures are features** | Idempotency, retries and expiry paths are designed up front — they're the paths that run at 3 AM. |
-| **Verify, don't assume** | Tests, QA checklists and load tests before calling anything done. |
+| **Failures are features** | Idempotency, retries and expiry paths are designed up front, because they're the paths that run at 3 AM. |
+| **Verify, don't assume** | Tests, and QA checklists before calling anything done. |
 
 ---
 
@@ -186,7 +186,7 @@ Learning Path: Full-Stack Web Developer — <b>Graduated</b>
 
 ### 🤝 Let's build something together
 
-**Open to full-stack & backend roles — and interesting problems.**
+**Open to full-stack & backend roles and interesting problems.**
 
 [![Email me](https://img.shields.io/badge/Get_in_touch-arbasyaa@gmail.com-89b4fa?style=for-the-badge&logo=gmail&logoColor=1e1e2e)](mailto:arbasyaa@gmail.com)
 
