@@ -79,22 +79,20 @@ Informatics Engineering (Teknik Informatika) — <b>Graduated</b><br>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Integration
-- Integrating LLM APIs (OpenAI-compatible) into web apps
-- Building chat features with multiple model providers
-- AI-assisted development workflow (Claude Code, MCP)
-- Using LLMs to help clean & structure scraped data
+### ⚙️ DevOps & Infrastructure
+- Docker & Docker Compose, containerized deployments
+- Linux servers & shell scripting
+- CI with GitHub Actions
+- Environment config, migrations & deploy workflows
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ DevOps, Automation & Quality
-- Docker & Docker Compose, containerized deployments
+### 🧪 Automation & Quality
 - Browser automation (Playwright, Puppeteer)
 - Load & smoke testing with up to 100 virtual users
 - Web scraping & data pipelines (Python)
 - Security reviews & secure coding practices
-- Linux, shell scripting, CI with GitHub Actions
 
 </td>
 </tr>
