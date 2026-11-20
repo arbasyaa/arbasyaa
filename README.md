@@ -171,9 +171,6 @@ Learning Path: Full-Stack Web Developer · <b>Graduated</b>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arbasyaa&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=94e2d5" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbasyaa&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com?user=arbasyaa&hide_border=true&background=1e1e2e&ring=89b4fa&fire=f38ba8&currStreakLabel=cdd6f4&sideLabels=94e2d5&currStreakNum=cdd6f4&sideNums=cdd6f4&dates=6c7086" alt="Contribution streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arbasyaa&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=f38ba8&area=true&area_color=89b4fa&hide_border=true" alt="Contribution graph" width="100%" />
