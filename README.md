@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:89b4fa&height=200&section=header&text=Arbasya%20Anandito&fontSize=48&fontColor=cdd6f4&fontAlignY=36&desc=Full-Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="Arbasya Anandito" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:89b4fa&height=200&section=header&text=Arbasya%20Anandito&fontSize=48&fontColor=cdd6f4&fontAlignY=36&desc=Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="Arbasya Anandito" width="100%" />
 
 <a href="https://github.com/arbasyaa">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=89B4FA&center=true&vCenter=true&width=620&lines=Backend+systems+that+stay+boring+in+production;Full-stack+products+from+PRD+to+deployment;AI+platforms%2C+LLM+gateways+%26+agent+tooling;Automation%2C+data+pipelines+%26+load+testing" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=89B4FA&center=true&vCenter=true&width=620&lines=Backend+systems+that+stay+boring+in+production;Full-stack+products+from+PRD+to+deployment;Clean+APIs%2C+solid+data%2C+reliable+deploys;Automation%2C+data+pipelines+%26+load+testing" alt="Typing intro" />
 </a>
 
 <br>
@@ -18,14 +18,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack & AI Engineer** and a graduate of **Informatics Engineering** at **Politeknik Negeri Cilacap**.
+I'm a **Full-Stack Developer** with a strong backend focus, and a graduate of **Informatics Engineering** at **Politeknik Negeri Cilacap**.
 I build products end-to-end — from the PRD and API contract, through the database and backend, to a polished
-frontend, Docker image and production deploy. Lately most of my work sits where software engineering meets AI:
-multi-provider AI platforms, LLM gateways, and tooling that makes AI agents genuinely useful for developers.
+frontend, Docker image and production deploy. I also integrate LLM APIs into web apps where they add real value,
+and use AI-assisted tooling to ship faster without cutting corners.
 
 ```yaml
-role:        Full-Stack & AI Engineer
-focus:       [Backend Systems, Full-Stack Web, AI Engineering, Automation]
+role:        Full-Stack Developer (Backend-focused)
+focus:       [Backend Systems, Full-Stack Web, Automation, DevOps]
 education:   Informatics Engineering — Politeknik Negeri Cilacap
 gpa:         3.50 / 4.00
 languages:   [Indonesian, English]
@@ -79,12 +79,11 @@ Informatics Engineering (Teknik Informatika) — <b>Graduated</b><br>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Engineering
-- Multi-provider AI chat platforms & modular architectures
-- LLM gateways / OpenAI-compatible API routing
-- AI agent tooling — MCP, subagents, workflow orchestration
-- Claude Code plugins & skill packs (spec-driven dev workflow)
-- LLM-assisted data cleaning & analysis pipelines
+### 🤖 AI Integration
+- Integrating LLM APIs (OpenAI-compatible) into web apps
+- Building chat features with multiple model providers
+- AI-assisted development workflow (Claude Code, MCP)
+- Using LLMs to help clean & structure scraped data
 
 </td>
 <td width="50%" valign="top">
@@ -140,7 +139,7 @@ Informatics Engineering (Teknik Informatika) — <b>Graduated</b><br>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
 <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer" />
 
-**AI & LLM**
+**AI Tools**
 
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
@@ -181,7 +180,7 @@ Informatics Engineering (Teknik Informatika) — <b>Graduated</b><br>
 
 ### 🤝 Let's build something together
 
-**Open to full-stack, backend & AI engineering roles — and interesting problems.**
+**Open to full-stack & backend roles — and interesting problems.**
 
 [![Email me](https://img.shields.io/badge/Get_in_touch-arbasyaa@gmail.com-89b4fa?style=for-the-badge&logo=gmail&logoColor=1e1e2e)](mailto:arbasyaa@gmail.com)
 
