@@ -28,13 +28,14 @@ role:        Full-Stack Developer (Backend-focused)
 focus:       [Backend Systems, Full-Stack Web, Automation, DevOps]
 education:   Informatics Engineering — Politeknik Negeri Cilacap
 gpa:         3.50 / 4.00
+training:    Coding Camp powered by DBS Foundation — Full-Stack Web Developer
 languages:   [Indonesian, English]
 status:      Open to full-time roles & freelance projects
 ```
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Training
 
 <table>
 <tr>
@@ -43,6 +44,13 @@ status:      Open to full-time roles & freelance projects
 <b>Politeknik Negeri Cilacap</b><br>
 Informatics Engineering (Teknik Informatika) — <b>Graduated</b><br>
 <sub>GPA <b>3.50 / 4.00</b></sub>
+</td>
+</tr>
+<tr>
+<td width="80" align="center">💻</td>
+<td>
+<b>Coding Camp powered by DBS Foundation</b><br>
+Learning Path: Full-Stack Web Developer — <b>Graduated</b>
 </td>
 </tr>
 </table>
